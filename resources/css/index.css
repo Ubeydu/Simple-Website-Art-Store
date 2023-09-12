@@ -1,0 +1,50 @@
+.banner {
+    background-image: url('../images/pattern.jpeg');
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:khaki;
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.description {
+    color: black;
+    font-size: 20px;
+  }
+  
+  .description em {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+/* #product {
+    color: white;
+    font-size: 32px;
+    background-color: mediumspringgreen;
+    width: 100%;
+} */
+
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
