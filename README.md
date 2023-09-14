@@ -1,1 +1,1 @@
-https://ubeydu.github.io/ :)
+Terrifingly simple static website, built for learning. :) 
